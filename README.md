@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @finderskuipers
+- 👋 Hi, I’m Andy
 - 💞️ I’m interested in astronomy, open source code, and meteorology!
 - 🌱 I’m currently learning about socket programming
-- 👀 I’m looking to collaborate on a wiki for astronomers!
+<!--- - 👀 I’m looking to collaborate on a wiki for astronomers! --->
 - 📫 How to reach me: andy@observational.space
 
 <!---
