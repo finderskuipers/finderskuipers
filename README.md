@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Andy
 - 💞️ I’m interested in astronomy, open source code, and meteorology!
 - 🌱 I’m currently learning about socket programming...
-- 👀 I’m working on a wiki for hobby astronomers!
+- 👀 I’m working on a [wiki](https://wiki.observational.space/) for hobby astronomers!
 - 📫 How to reach me: andy@observational.space
 
 <!---
